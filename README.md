@@ -17,4 +17,6 @@ x4 18650 Lithium Ion Cells
 
 12v 3000mAH Lithium Ion Battery Pack 
 
+Currently the robot class enables the robot to move, and the rc.py file creates an instance of the robot class and allows it to be driven via a bluetooth controller.
+
 
